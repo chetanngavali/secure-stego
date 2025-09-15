@@ -1,5 +1,7 @@
 # High-Security Steganography Tool
 
+<img width="640" height="270" alt="image-640x270" src="https://github.com/user-attachments/assets/10b86e95-8145-4c1e-9622-8790109468eb" />
+
 ## Overview
 
 This is a production-quality Python application that provides secure steganography capabilities by encrypting text messages and hiding them within image files. The tool implements military-grade cryptographic security using authenticated encryption (AEAD) with ChaCha20-Poly1305 or AES-256-GCM, combined with robust steganography techniques that embed encrypted data in image pixels using cryptographically secure random ordering. Only users with the correct password can extract and decrypt the hidden messages, making it suitable for secure communication and data protection scenarios.
